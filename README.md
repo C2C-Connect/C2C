@@ -18,3 +18,6 @@ What was wrong here (do not revive):
 - Owner as auction seller
 
 Salvage extracted 2026-10-03: tow license field, location lat/lng + city, presigned-upload *pattern* (Stage 2).
+
+
+For the complete owner-directed technical requirements (including forensic truth layers, measurements and uncertainty, validation, gates, and current implementation checkpoint), see the [canonical complete forensic substantiation specification](https://github.com/C2C-Connect/claim2car-connect/blob/main/docs/forensics/COMPLETE_FORENSIC_SUBSTANTIATION_SPEC.md). It is a requirements document, not a claim that features are implemented. This scaffold remains retired.
